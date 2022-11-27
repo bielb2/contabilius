@@ -97,7 +97,7 @@ $ yarn start
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
-Feito com :heart: por <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
+Feito com :heart: por <a href="https://github.com/bielb2" target="_blank">Gabriel Barros</a>
 
 &#xa0;
 
